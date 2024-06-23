@@ -215,9 +215,7 @@ Submission Guidelines:
 4. "Project Management Methodologies: 12 Popular Frameworks." Asana, [Asana](https://asana.com/resources/project-management-methodologies).
 5. "Project Planning Tools and Techniques Every Project Manager Should Know." ProjectsMind, [ProjectsMind](https://www.projectsmind.com/project-planning-tools-and-techniques-every-project-manager-should-know/).
 6. "The Importance of Software Project Management." oboloo, [oboloo](https://oboloo.com/blog/what-is-the-importance-of-software-project-management/).
-7. "The Importance of
-
- Project Management in Software Development." TeamHub, [TeamHub](https://teamhub.com/blog/the-importance-of-project-management-in-software-development/).
+7. "The Importance of Project Management in Software Development." TeamHub, [TeamHub](https://teamhub.com/blog/the-importance-of-project-management-in-software-development/).
 8. "Software Project Management (SPM) – Software Engineering." GeeksforGeeks, [GeeksforGeeks](https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/).
 9. "9 Project Management Software Benefits: Why Use It?" The Digital Project Manager, [DigitalProjectManager](https://thedigitalprojectmanager.com/projects/why-use-project-management-software-benefits/).
 10. "Project Management Methodologies: Comparing the Top 5." Glasscubes, [Glasscubes](https://www.glasscubes.com/project-management-methodologies/).
